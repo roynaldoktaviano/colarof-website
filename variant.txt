@@ -1,0 +1,89 @@
+<!-- START : Variant Product -->
+      <section id="jenis">
+        <div class="grid md:flex w-full">
+  
+          <!-- Pure White Variant -->
+          <div class="flex-initial md:flex-1 w-full variant-opt h-80 relative">
+            <div class="absolute text-white z-10 grid h-full place-items-end text-center w-full">
+              <div class="mx-auto mb-8 px-5">
+                <!-- <button class="px-9 py-3 text-sm mt-7 border border-white transition-all rounded-2xl mb-10">View More</button> -->
+                <h2 class="text-3xl px-10 lg:px-38 leading-tight mb-3">Pure White Glassboard</h2>
+                <p class="text-xs leading-loose">Warna putih yang bersih akan memberikan latar yang kontras</p>
+              </div>
+            </div>
+  
+            <div class="w-full h-full bg-black opacity-60 absolute"></div>
+            <img src="../assets/variant-1.jpg" alt="Glassboard Putih Asli dan tidak Putih Kehijauan" class="object-cover h-full" width="fit" height="fit">
+          </div>
+  
+          <!-- Multi-Color Variant -->
+          <div class="flex-1 w-full variant-opt h-80 relative">
+            <div class="absolute text-white z-10 grid h-full place-items-end text-center w-full">
+              <div class="mx-auto mb-8 px-5">
+                <!-- <button class="px-9 py-3 text-sm mt-7 border border-white transition-all rounded-2xl mb-10">View More</button> -->
+                <h2 class="text-3xl px-10 lg:px-38 leading-tight mb-3">Berbagai Warna</h2>
+                <p class="text-xs leading-loose"> Papan tulis kaca dengan beberapa pilihan warna yang berbeda</p>
+              </div>
+            </div>
+  
+            <div class="w-full h-full bg-black opacity-60 absolute"></div>
+            <img src="../assets/variant-color.jpg" alt="Berbagai Pilihan Latar Belakang Warna di Glassboard" class="object-cover h-full" width="fit" height="fit">
+          </div>
+  
+          <!-- Addon Variant -->
+          <div class="flex-1 w-full variant-opt h-80 relative">
+            <div class="absolute text-white z-10 grid h-full place-items-end text-center w-full">
+              <div class="mx-auto mb-8 px-5">
+                <!-- <button class="px-9 py-3 text-sm mt-7 border border-white transition-all rounded-2xl mb-10">View More</button> -->
+                <h2 class="text-3xl px-10 lg:px-38 leading-tight mb-3">Aksesoris Pendukung</h2>
+                <p class="text-xs leading-loose">Tambahan frame, standing dan tempat penghapus untuk glassboard</p>
+              </div>
+            </div>
+  
+            <div class="w-full h-full bg-black opacity-60 absolute"></div>
+            <img src="../assets/variant-addon.jpg" alt="Aksesoris Pendukung Tambahan di Glassboard" class="object-cover h-full" width="fit" height="fit">
+          </div>
+  
+        </div>
+        <div class="grid md:flex w-full">
+  
+          <!-- Japan Technologi Variant -->
+          <div class="flex-1 w-full variant-opt h-80 relative">
+            <div class="absolute text-white z-10 grid h-full place-items-end text-center w-full">
+              <div class="mx-auto mb-8 px-5">
+                <!-- <button class="px-9 py-3 text-sm mt-7 border border-white transition-all rounded-2xl mb-10">View More</button> -->
+                <h2 class="text-3xl px-10 lg:px-38 leading-tight mb-3">Teknology Japan</h2>
+                <p class="text-xs leading-loose">Produk yang digunakan berlisensi Teknology Japan</p>
+              </div>
+            </div>
+  
+            <div class="w-full h-full bg-black opacity-60 absolute"></div>
+            <img src="../assets/variant-tech.jpg" alt="Glassboard dengan Technology Japan" class="object-cover h-full" width="fit" height="fit">
+          </div>
+  
+          <!-- CTA Buying -->
+          <div class="flex-1 h-80 bg-ter-green">
+            <h2 class=" text-white text-4xl lg:text-5xl m-7 text-center leading-tight">Segera Dapatkan yang Anda Butuhkan</h2>
+            <a href="https://api.whatsapp.com/send/?phone=628113050020&text=Halo+Colarof%2C+Saya+ingin+bertanya+tentang+Glassboard&type=phone_number&app_absent=0" class="flex items-center w-fit mx-auto border border-white px-4 py-2 rounded-xl hover:bg-white transition-colors" target="_blank">
+              <img src="../assets/wa-02.png" alt="Whatsapp Tempat Beli Glassboard" class="w-8 mr-2" width="fit" height="fit">
+              <p class="text-prim-green font-bold">Whatsapp</p>
+            </a>
+          </div>
+          
+          <!-- Longtime Warranty -->
+          <div class="flex-1 w-full variant-opt h-80 relative">
+            <div class="absolute text-white z-10 grid h-full place-items-end text-center w-full">
+              <div class="mx-auto mb-8 px-5">
+                <!-- <button class="px-9 py-3 text-sm mt-7 border border-white transition-all rounded-2xl mb-10">View More</button> -->
+                <h2 class="text-3xl px-10 lg:px-38 leading-tight mb-3">Produk Bergaransi</h2>
+                <p class="text-xs leading-loose">Garansi jangka panjang, memastikan glassboard Anda  aman</p>
+              </div>
+            </div>
+  
+            <div class="w-full h-full bg-black opacity-60 absolute"></div>
+            <img src="../assets/variant-warranty.jpg" alt="Garansi Jangka Panjang Glassboard" class="object-cover h-full" width="fit" height="fit">
+          </div>
+  
+        </div>
+      </section>
+      <!-- END : Variant Product -->
