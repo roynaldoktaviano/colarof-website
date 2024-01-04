@@ -14,5 +14,117 @@
     font-size: 4.5rem;
     line-height: 1.375 !important;
   }
+
+  .porto-img{
+    border: 2px solid black;
+    width: 14rem;
+    height: 17rem;
+    object-fit: cover;
+    /* padding: 60px; */
+  }
+
+  body,div,img,p,table,tr,td,a,h1,h2,h3,h4,ul,li,em,span {
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+  }
+  
+  .row {
+    width:100%;
+    margin:0 auto;
+    display:block;
+    position:relative;
+  }
+  
+  .carouselwrap {
+    position:relative;
+    width:100%;
+    max-width:960px;
+    overflow:hidden;
+    margin:0 auto;
+  }
+  
+  .carousel {
+    position:relative;
+    overflow:hidden;
+    white-space:nowrap;
+    font-size: 0;
+  }
+  
+  .carousel .item {
+    display:inline-block;
+    text-align:center;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    vertical-align:top;
+  }
+  
+  .carousel .item img {
+    opacity:.6;
+    max-height:350px;
+  }
+  
+  .carousel .item .mainimg {
+    opacity:1;
+    object-fit: cover;
+    width: 17rem;
+    height: 15rem;
+  }
+  
+  .ic_title {
+    width:100%;
+    background:#F8F8F8;
+    text-align:center;
+  }
+  
+  .ic_title p {
+    padding:8px 0;
+  }
+  
+  .prev_btn {
+    position:absolute;
+    left:10px;
+    z-index:50000000;
+    top:40%;
+    cursor:pointer
+  }
+  
+  .next_btn {
+    position:absolute;
+    right:10px;
+    z-index:50000000;
+    top:40%;
+    cursor:pointer
+  }
+  
+  .no_select {
+    -moz-user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    background-color: rgb(255, 0, 0);
+    width: 10px;
+    background-color:rgba(255, 255, 255, 0.145);
+  }
+
+  .carousel-container {
+    width: 100%; /* Adjust the width as needed */
+    overflow: hidden;
+    position: relative;
+}
+
+.carousel-wrapper {
+    display: flex;
+    transition: transform 0.3s ease;
+}
+
+.carousel-item {
+    flex: 0 0 400px; /* Adjust item width and container width as needed */
+    margin-right: 10px; /* Adjust the space between items as needed */
+}
 }
 

@@ -3,9 +3,9 @@
       <!-- START : Hero -->
       <section id="hero">
         <div class="absolute text-white z-10 grid h-screen items-end justify-items-start w-full ">
-          <div class="mb-32 ml-28">
-            <h1 class="text-6xl md:px-38 leading-snug mb-10"><span class="font-bold">Glassboard</span> Eksklusif <br> dengan Kaca <span class="font-bold">Premium</span></h1>
-            <a href="#jenis" class="px-9 py-3 text-sm mt-10 border border-white hover:bg-white hover:text-prim-green hover:font-bold transition-all rounded-2xl">Lihat Glassboard</a>
+          <div class="md:mb-32 md:ml-28 text-center md:text-left my-auto">
+            <h1 class="text-5xl md:text-6xl md:px-38 leading-snug mb-10"><span class="font-bold text-ter-green">Glassboard</span> Eksklusif <br> dengan Kaca <span class="font-bold text-ter-green">Premium</span></h1>
+            <a href="#jenis" class="px-9 py-3 text-sm mt-10 border border-white bg-ter-green hover:bg-white text-white hover:text-prim-green   hover:font-bold transition-all rounded-2xl">Lihat Glassboard</a>
           </div>
         </div>
         <div class="w-full h-screen bg-black absolute opacity-70"></div>
@@ -51,30 +51,30 @@
       
 
       <!-- START : Jenis Glassboard (Pro+ Series & Safety Series) -->
-      <section id="tipe" class="py-28 px-10 md:px-24">
-        <div class="grid grid-cols-2 gap-11 mb-20">
+      <section id="jenis" class="py-16 px-10 md:px-24">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-11 mb-20">
           <div>
-            <img src="../assets/variant-addon.jpg" alt="Pro+ Series Glassboard" class="rounded-3xl">
+            <img src="../assets/image-21.png" alt="Pro+ Series Glassboard" class="rounded-3xl">
           </div>
 
           <div>
             <h2 class="font-bold text-5xl text-prim-green mb-7">Pro+ Series</h2>
-            <p class="text-sm text-prim-green leading-loose">Glassboard Tipe Pro+ Series adalah papan tulis inovatif yang menggabungkan kaca berkualitas terbaik dengan lapisan cat paint plotter yang tebal, tahan gores, dan anti-kuning. Dengan desain minimalis yang elegan, produk ini cocok untuk berbagai pengaturan, sementara kualitas kaca premium menjamin ketahanan jangka panjang. Instalasi yang mudah dan komitmen terhadap kelestarian lingkungan membuat Glassboard Tipe Pro+ Series menjadi pilihan terbaik bagi mereka yang mencari papan tulis yang tahan lama dan estetis.</p>
-            <button class="mt-4 rounded-lg bg-ter-green py-3 px-5 border-2 hover:bg-sec-green transition-colors border-prim-green text-white">Tanya Harga Pro+ Series</button>
+            <p class="text-sm text-prim-green leading-loose mb-7">Glassboard Tipe Pro+ Series adalah papan tulis inovatif yang menggabungkan kaca berkualitas terbaik dengan lapisan cat paint plotter yang tebal, tahan gores, dan anti-kuning. Dengan desain minimalis yang elegan, produk ini cocok untuk berbagai pengaturan, sementara kualitas kaca premium menjamin ketahanan jangka panjang. Instalasi yang mudah dan komitmen terhadap kelestarian lingkungan membuat Glassboard Tipe Pro+ Series menjadi pilihan terbaik bagi mereka yang mencari papan tulis yang tahan lama dan estetis.</p>
+            <a href="https://api.whatsapp.com/send/?phone=628113050020&text=Halo+Colarof%2C+Saya+ingin+bertanya+tentang+Glassboard+Pro+Series&type=phone_number&app_absent=0" target="_blank" class="mt-4 rounded-lg bg-ter-green py-3 px-5 border-2 hover:bg-sec-green transition-colors border-prim-green text-white">Tanya Harga Pro+ Series</a>
           </div>
         </div>
 
-        <div class="grid grid-cols-2 gap-11">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-11">
 
           <div>
             <h2 class="font-bold text-5xl text-prim-green mb-7">Safety Series</h2>
-            <p class="text-sm text-prim-green leading-loose">Glassboard Tipe Safety Series menghadirkan kualitas dan keamanan dalam satu produk. Terbuat dari tempered glassboard yang tahan terhadap getaran, papan tulis ini dilengkapi dengan lapisan stiker di belakang kaca untuk menjaga pecahan kaca terkendali saat kerusakan terjadi, menjadikannya pilihan ideal untuk ruang-ruang yang memerlukan keamanan ekstra. Dengan kombinasi kekuatan, ketahanan, dan keindahan, Glassboard Tipe Safety Series adalah solusi terbaik untuk penggunaan medan yang rawan getaran.</p>
-            <button class="mt-4 rounded-lg bg-ter-green py-3 px-5 border-2 hover:bg-sec-green transition-colors border-prim-green text-white">Tanya Harga Safety Series</button>
+            <p class="text-sm text-prim-green leading-loose mb-7">Glassboard Tipe Safety Series menghadirkan kualitas dan keamanan dalam satu produk. Terbuat dari tempered glassboard yang tahan terhadap getaran, papan tulis ini dilengkapi dengan lapisan stiker di belakang kaca untuk menjaga pecahan kaca terkendali saat kerusakan terjadi, menjadikannya pilihan ideal untuk ruang-ruang yang memerlukan keamanan ekstra. Dengan kombinasi kekuatan, ketahanan, dan keindahan, Glassboard Tipe Safety Series adalah solusi terbaik untuk penggunaan medan yang rawan getaran.</p>
+            <a href="https://api.whatsapp.com/send/?phone=628113050020&text=Halo+Colarof%2C+Saya+ingin+bertanya+tentang+Glassboard+Safety+Series&type=phone_number&app_absent=0" target="_blank" class="mt-4 rounded-lg bg-ter-green py-3 px-5 border-2 hover:bg-sec-green transition-colors border-prim-green text-white">Tanya Harga Safety Series</a>
           </div>
 
 
           <div>
-            <img src="../assets/variant-addon.jpg" alt="Pro+ Series Glassboard" class="rounded-3xl">
+            <img src="../assets/image-19.png" alt="Pro+ Series Glassboard" class="rounded-3xl">
           </div>
 
           
@@ -126,11 +126,174 @@
         <p class="text-sec-green text-sm leading-loose mt-2">kami dengan bangga memamerkan berbagai karya unik dan inspiratif yang telah kami ciptakan untuk pelanggan-pelanggan kami. Setiap gambar adalah sebuah cerita visual tentang bagaimana Glassboard kami telah mengubah ruang dan merangkul kreativitas dalam berbagai konteks.</p>
   
         <!-- Galery Components -->
-        <div class="grid grid-cols-8 grid-rows-4 gap-4 mt-7 mx-auto">
-          
-        </div>
+
+
+        <div class="grid grid-cols-8 grid-rows-4 gap-4 mt-7 mx-auto"><figure class="col-start-1 col-end-3 row-start-1 row-end-3"><img src="../assets/22.jpg" alt="Proses Pengerjaan Glassboard" class="h-1/2 object-cover w-full" width="fit" height="fit"></figure><figure class="col-start-3 col-end-5 row-start-1 row-end-3"><img src="../assets/19.jpg" alt="Distributor Glassboard Indonesia" class="h-1/2 object-cover w-full" width="fit" height="fit"></figure><figure class="col-start-5 col-end-9 row-start-1 row-end-5"><img src="../assets/1.jpg" alt="Produksi Glassboard Indonesia" class="h-1/2 object-cover w-full" width="fit" height="fit"></figure><figure class="col-start-1 col-end-5 row-start-2 row-end-6"><img src="../assets/20.jpg" alt="Pengiriman Glassboard Seluruh Indonesia" class="h-full object-cover w-full" width="fit" height="fit"></figure><figure class="col-start-5 col-end-9 row-start-3 row-end-6"><img src="../assets/21.jpg" alt="Tempat Pesan Papan Tulis Kaca Indonesia" class="h-full object-cover w-full" width="fit" height="fit"></figure></div>
+
+
+        <!-- <div class="grid gap-4 mt-7 mx-auto">
+          <div class="carousel w-full overflow-hidden">
+            <div class="inner flex gap-7 grid-rows-1">
+              <div class="image " v-for="image in images" :key="image">
+                <div class="w-60 h-72 rounded-2xl">
+                  <img v-bind:src="image" alt="" class="rounded-2xl porto-img">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+
+        <!-- <div class="carousel-container mt-12">
+            <div class="carousel-wrapper" :style="'transform: translateX(-' + currentPosition * 410 + 'px)'">
+                <div class="carousel-item " v-for="(item, index) in items" :key="index">
+                    <img :src="item.src" :alt="item.alt" class="rounded-xl h-3/4 w-full object-cover">
+                </div>
+            </div>
+            <div class="flex justify-between mt-[-7rem]">
+              <button @click="prev"  class="px-4 py-2 bg-prim-green text-white rounded-lg">Previous</button>
+              <button @click="next"  class="px-4 py-2 bg-prim-green text-white rounded-lg">Next</button>
+            </div>
+        </div> -->
+
       </section>
       <!-- END : Gallery -->
+
+      <!-- START : Aksesoris Pendukung -->
+      <section class="py-16 px-10 lg:px-24" id="aksesoris">
+        <h2 class="text-prim-green text-4xl font-bold">
+          Aksesoris Pendukung
+        </h2>
+        <p class="text-sec-green text-sm leading-loose mt-3">
+          kami dengan bangga memamerkan berbagai karya unik dan inspiratif yang telah kami ciptakan untuk pelanggan-pelanggan kami. Setiap gambar adalah sebuah cerita visual tentang bagaimana Glassboard kami telah mengubah ruang dan merangkul kreativitas dalam berbagai konteks.
+        </p>
+        <div class="grid grid-cols-12 rounded-xl mt-6">
+
+          <!-- <div class="col-span-2 ">
+            <div class="bg-[#EEEEED] px-6 py-3 rounded-xl h-full">
+              <p class="text-sec-green text-sm font-bold mb-7 cursor-pointer frameBtn">Frame</p>
+              <p class="text-sec-green text-sm mb-7 cursor-pointer standBtn">Standing</p>
+              <p class="text-sec-green text-sm mb-7 cursor-pointer">Multicolor</p>
+              <p class="text-sec-green text-sm mb-7 cursor-pointer">Magnetic</p>
+              <p class="text-sec-green text-sm mb-7 cursor-pointer">Round Edge</p>
+              <p class="text-sec-green text-sm mb-7 cursor-pointer">LED Box</p>
+              <p class="text-sec-green text-sm mb-7 cursor-pointer">Printed Glassboard</p>
+            </div>
+          </div> -->
+
+          <div class="col-span-12 md:col-span-2">
+      <!-- Tab buttons -->
+      <div class="bg-[#EEEEED] px-6 py-3 rounded-xl h-full">
+        <p class="text-sec-green text-sm font-bold mb-7 tab-btn cursor-pointer" data-tab="frameTab">Frame</p>
+        <p class="text-sec-green text-sm mb-7 tab-btn cursor-pointer" data-tab="standingTab">Standing</p>
+        <p class="text-sec-green text-sm mb-7 tab-btn cursor-pointer" data-tab="colorTab">Multicolor</p>
+        <p class="text-sec-green text-sm mb-7 tab-btn cursor-pointer" data-tab="magneticTab">Magnetic</p>
+        <p class="text-sec-green text-sm mb-7 tab-btn cursor-pointer" data-tab="edgeTab">Round Edge</p>
+        <p class="text-sec-green text-sm mb-7 tab-btn cursor-pointer" data-tab="ledTab">LED Box</p>
+        <p class="text-sec-green text-sm mb-7 tab-btn cursor-pointer" data-tab="printedTab">Printed Glassboard</p>
+
+
+
+
+        <!-- Add more tab buttons if needed -->
+      </div>
+    </div>
+
+          <div></div>
+
+          <div class="col-span-12 md:col-span-9 mt-7 md:mt-0 framSect tab-content" id="frameTab">
+            <h3 class="text-prim-green text-4xl font-bold">Frame Glassboard</h3>
+            <p class="text-sec-green text-sm leading-loose mt-7">kami dengan bangga memamerkan berbagai karya unik dan inspiratif yang telah kami ciptakan untuk pelanggan-pelanggan kami. Setiap gambar adalah sebuah cerita visual tentang bagaimana Glassboard kami telah mengubah ruang dan merangkul kreativitas dalam berbagai konteks.</p>
+            <ul>
+              <li class="text-sec-green text-sm leading-loose mt-3">-- Frame Kayu</li>
+              <li class="text-sec-green text-sm leading-loose mt-3">-- Frame Besi</li>
+            </ul>
+            <!-- <div class="grid grid-cols-3 mt-5 gap-x-3 gap-y-6 w-3/5">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+            </div> -->
+          </div>
+
+          <div class="col-span-12 md:col-span-9 mt-7 standingSect tab-content" id="standingTab">
+            <h3 class="text-prim-green text-4xl font-bold">Standing Glassboard</h3>
+            <p class="text-sec-green text-sm leading-loose mt-7">Presentasikan ide-ide kreatif Anda dengan kemudahan dan gaya menggunakan Stand Glassboard inovatif kami. Dirancang dengan keunggulan mobilitas, struktur besi atau kayu berkualitas tinggi, dan dilengkapi roda, produk ini menjadi solusi serbaguna untuk berbagai kebutuhan presentasi dan kolaborasi.</p>
+            <ul>
+              <li class="text-sec-green text-sm leading-loose mt-3">-- Standing Kayu</li>
+              <li class="text-sec-green text-sm leading-loose mt-3">-- Standing Besi</li>
+              <li class="text-sec-green text-sm leading-loose mt-3">-- Menggunakan Roda</li>
+
+            </ul>
+            <!-- <div class="grid grid-cols-3 mt-5 gap-x-3 gap-y-6 w-3/5">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+            </div> -->
+          </div>
+
+
+          <div class="col-span-12 md:col-span-9 mt-7 framSect tab-content" id="colorTab">
+            <h3 class="text-prim-green text-4xl font-bold">Multicolor Glassboard</h3>
+            <p class="text-sec-green text-sm leading-loose mt-7">Glassboard Multicolor membawa warna-warna kreativitas ke ruang presentasi Anda. Dengan permukaan kaca yang halus dan tahan gores, glassboard ini memungkinkan ide-ide berkembang dengan pensil spesial multicolor yang dirancang khusus. Pensil ini tidak hanya memberikan berbagai pilihan warna yang cerah dan hidup, tetapi juga dapat dihapus dengan mudah tanpa meninggalkan noda atau bayangan.</p>
+            <ul>
+              <li class="text-sec-green text-sm leading-loose mt-3 font-bold">Pilihan Warna:</li>
+              <li class="text-sec-green text-sm leading-loose mt-3">Merah, Biru, Hitam, Putih, Orange, Hijau, Kuning</li>
+            </ul>
+            <!-- <div class="grid grid-cols-3 mt-5 gap-x-3 gap-y-6 w-3/5">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+            </div> -->
+          </div>
+
+          <div class="col-span-12 md:col-span-9 mt-7 framSect tab-content" id="magneticTab">
+            <h3 class="text-prim-green text-4xl font-bold">Magnetic Glassboard</h3>
+            <p class="text-sec-green text-sm leading-loose mt-7">Magnetic Glassboard adalah inovasi luar biasa untuk ruang presentasi yang memadukan unsur kreativitas dengan fungsionalitas magnetik. Permukaan kaca yang halus dan tahan gores tidak hanya memberikan tempat ideal untuk mengekspresikan ide dengan marker, tetapi juga berfungsi sebagai papan magnet yang dapat memuat berbagai materi pendukung, seperti catatan, gambar, atau dokumen. </p>
+            
+
+            <!-- <div class="grid grid-cols-3 mt-5 gap-x-3 gap-y-6 w-3/5">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+            </div> -->
+          </div>
+
+          <div class="col-span-12 md:col-span-9 mt-7 framSect tab-content" id="edgeTab">
+            <h3 class="text-prim-green text-4xl font-bold">Rounded Edge Glassboard</h3>
+            <p class="text-sec-green text-sm leading-loose mt-7">Glassboard dengan tepi melengkung (Rounded Edge) menambahkan sentuhan ergonomis yang halus dan estetika modern ke dalam ruang presentasi Anda. Dengan desain ini, sudut-sudut tajam tradisional digantikan oleh tepi yang lembut dan ergonomis, menciptakan tampilan yang ramah dan aman. Glassboard dengan Rounded Edge ini tidak hanya menjadi alat presentasi yang fungsional, tetapi juga menjadi elemen desain yang menarik perhatian.</p>
+            
+            
+            <!-- <div class="grid grid-cols-3 mt-5 gap-x-3 gap-y-6 w-3/5">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+            </div> -->
+          </div>
+
+          <div class="col-span-12 md:col-span-9 mt-7 framSect tab-content" id="ledTab">
+            <h3 class="text-prim-green text-4xl font-bold">LED Box Glassboard</h3>
+            <p class="text-sec-green text-sm leading-loose mt-7">LED Box Glassboard menghadirkan dimensi baru dalam presentasi visual dengan memadukan elegansi glassboard dengan iluminasi LED yang memukau. Permukaan kaca yang halus dan tahan gores menjadi latar yang sempurna untuk ide-ide kreatif Anda, sedangkan rangka yang menonjol memberikan cahaya LED yang merata, meningkatkan fokus dan daya tarik visual. Pilihan warna LED yang beragam memberikan fleksibilitas untuk menyesuaikan presentasi Anda, sementara efek cahaya dinamis dapat meningkatkan daya tarik dan membawa energi tambahan ke ruang presentasi.</p>
+            
+            
+            <!-- <div class="grid grid-cols-3 mt-5 gap-x-3 gap-y-6 w-3/5">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+            </div> -->
+          </div>
+
+
+          <div class="col-span-12 md:col-span-9 mt-7 framSect tab-content" id="printedTab">
+            <h3 class="text-prim-green text-4xl font-bold">Printed Glassboard Glassboard</h3>
+            <p class="text-sec-green text-sm leading-loose mt-7">Printed Glassboard membawa sentuhan pribadi dan estetika ke ruang presentasi Anda dengan desain yang dapat disesuaikan sepenuhnya. Permukaan kaca yang halus dan tahan gores menjadi kanvas untuk mengekspresikan ide-ide Anda, sementara gambar atau desain cetak yang dipilih dengan hati-hati memberikan karakter unik pada setiap presentasi. Printed Glassboard tidak hanya memberikan fungsionalitas tinggi, tetapi juga menjadi elemen dekoratif yang menonjol dalam ruang rapat, kelas, atau kantor.</p>
+            
+            
+            <!-- <div class="grid grid-cols-3 mt-5 gap-x-3 gap-y-6 w-3/5">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+              <img src="../assets/21.jpg" alt="" class="w-52 h-36 object-cover rounded-xl">
+            </div> -->
+          </div>
+
+
+
+        </div>
+      </section>
+      <!-- END : Aksesoris Pendukung -->
   
       <!-- START : Contact -->
       <section class="py-16 px-10 lg:px-24" id="kontak">
@@ -196,10 +359,6 @@
               </div>
               <div class="flex items-center">
                 <div class="w-[2px] h-5 bg-white"></div>
-                <a href="#testi" class="text-white text-sm ml-4">Testimoni </a>
-              </div>
-              <div class="flex items-center">
-                <div class="w-[2px] h-5 bg-white"></div>
                 <a href="#pengiriman" class="text-white text-sm ml-4">Pengiriman </a>
               </div>
               <div class="flex items-center">
@@ -253,3 +412,84 @@
     </div>
     <!-- END : Bottom Bar -->
   </template>
+
+  <script>
+
+document.addEventListener('DOMContentLoaded', function () {
+    // Function to switch between tabs
+    function showTab(tabId) {
+      // Hide all tab content
+      document.querySelectorAll('.tab-content').forEach(function (tabContent) {
+        tabContent.style.display = 'none';
+      });
+
+      // Remove 'font-bold' class from all tab buttons
+      document.querySelectorAll('.tab-btn').forEach(function (tabBtn) {
+        tabBtn.classList.remove('font-bold');
+      });
+
+      // Show the selected tab content
+      document.getElementById(tabId).style.display = 'block';
+
+      // Add 'font-bold' class to the clicked tab button
+      document.querySelector(`[data-tab="${tabId}"]`).classList.add('font-bold');
+    }
+
+    // Event listeners for tab buttons
+    document.querySelectorAll('.tab-btn').forEach(function (tabBtn) {
+      tabBtn.addEventListener('click', function () {
+        // Get the target tab ID from the data-tab attribute
+        var tabId = this.getAttribute('data-tab');
+        // Show the selected tab
+        showTab(tabId);
+      });
+    });
+
+    // Show the initial tab (you can choose the default tab)
+    showTab('frameTab');
+  });
+
+
+   // Check if the page is being loaded for the first time
+   document.addEventListener('DOMContentLoaded', function () {
+      if (performance.navigation.type === 1) {
+        // Page reload detected, redirect to home
+        window.location.href = "/";
+      }
+    });
+
+
+
+  export default {
+    data() {
+      return {
+        currentPosition: 0,
+        items: [
+          { src: 'src/assets/1.jpg', title: 'Image 1' },
+          { src: 'src/assets/17.jpg', title: 'Image 2' },
+          { src: 'src/assets/18.jpg', title: 'Image 3' },
+          { src: 'src/assets/21.jpg', title: 'Image 4' },
+          { src: 'src/assets/22.jpg', title: 'Image 5' }
+        ],
+      };
+    },
+    methods: {
+      prev() {
+                      if (this.currentPosition > 0) {
+                          this.currentPosition--;
+                      }
+                  },
+                  next() {
+                      if (this.currentPosition < this.items.length - 1) {
+                          this.currentPosition++;
+                      }
+                  },
+      toggleBold(index) {
+        // Mengubah status teks bold ketika di klik
+        this.$set(this.boldStatus, index, !this.boldStatus[index]);
+      }
+    }
+  };
+
+    
+  </script>
